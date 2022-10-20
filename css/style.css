@@ -126,7 +126,8 @@ body, html {
 }
 body {
     background-color: #fff;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Cairo', sans-serif;
+
     font-size: 16px;
     font-weight: 400;
     color:#6f6f6f;
@@ -253,7 +254,8 @@ table {
     color: #fff;
 }
 .op{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Cairo', sans-serif;
+
 }
 .dis-block{
 	display:block;
@@ -270,7 +272,8 @@ h4,
 h5,
 h6 {
     color: #232323;
-    font-family: "Poppins",sans-serif;
+    font-family: 'Cairo', sans-serif;
+
 }
 h1 a,
 h2 a,
@@ -3624,7 +3627,8 @@ blockquote:before {
         float: none;
 		display:block;
 		width:100%;
-		font-family: Roboto;
+		font-family: 'Cairo', sans-serif;
+
 	    padding: 0 25px 0 25px;	
     }
     .header-nav .nav > li .sub-menu > li,
@@ -5117,7 +5121,8 @@ blockquote:before {
     position: relative;
 }
 .date-style-3 .post-date {
-    font-family: oswald;
+    font-family: 'Cairo', sans-serif;
+
     text-transform: uppercase;
     position: absolute;
     padding: 8px 15px;
@@ -10955,7 +10960,8 @@ ul[class*="list-"]{
 .content-box-head{
 	border-radius: 50px;
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
-    font-family: "Open Sans",sans-serif;
+    font-family: 'Cairo', sans-serif;
+
     margin-bottom: 20px;
     margin-top: -46px;
     padding: 12px 0;
@@ -12619,7 +12625,8 @@ ol.commentlist li .star-rating {
 	opacity: 0.4;
 }
 .item-price {
-	font-family: open sans;
+	font-family: 'Cairo', sans-serif;
+
     font-size: 18px;
     font-weight: 600;
 }
@@ -13333,7 +13340,8 @@ ol.commentlist li .star-rating {
 }
 .shop-categories .acod-head a.collapsed:after,
 .shop-categories .acod-head a:after{
-	font-family: open sans;
+	font-family: 'Cairo', sans-serif;
+
 	font-weight: 700;
 	color:#000;
 	font-size: 18px;
@@ -13923,7 +13931,8 @@ ol.commentlist li .star-rating {
     margin-bottom: 20px;
 }
 .our-story h2.title span{
-    font-family: 'Playfair Display', serif;
+    font-family: 'Cairo', sans-serif;
+
     font-style: italic;
 }
 .our-story h4.title{

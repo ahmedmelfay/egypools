@@ -1,8 +1,13 @@
 /* RTL css */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
 body{
 	direction:rtl;
 	text-align:right;
+	font-family: 'Cairo', sans-serif;
+
 }
+
+
 
 /* ===== Header ===== */
 .header-nav .nav > li .sub-menu li .fas {
@@ -1937,3 +1942,4 @@ ol.comment-list li.comment .comment-meta a {
 		text-align: right!important;
 	}
 }
+
