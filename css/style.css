@@ -10235,7 +10235,7 @@ ul[class*="list-"]{
     background: ;
 }
 .overlay-black-light:after {
-    opacity: 0.3;
+    opacity: 0.6;
 }
 .overlay-black-middle:after {
     opacity: 0.5;
