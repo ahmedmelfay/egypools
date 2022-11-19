@@ -10228,6 +10228,13 @@ ul[class*="list-"]{
 .overlay-white-dark:after {
     background: #FFF;
 }
+.developed-by{
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 26px;
+    flex-direction: row-reverse;
+}
 .overlay-primary-light:after,
 .overlay-primary-middle:after,
 .overlay-primary-dark:after,
