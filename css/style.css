@@ -10235,6 +10235,12 @@ ul[class*="list-"]{
     font-size: 26px;
     flex-direction: row-reverse;
 }
+.developed-by-en{
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 26px;
+}
 .overlay-primary-light:after,
 .overlay-primary-middle:after,
 .overlay-primary-dark:after,
