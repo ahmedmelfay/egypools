@@ -1,1 +1,1 @@
-"# egypool" 
+Developed By Ahmed Melfay, Tested and Supervised By Youssuf Abramo, Copyrighted to Talia Media.
