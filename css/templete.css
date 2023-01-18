@@ -858,7 +858,7 @@ footer .footer-bottom .fa-heart{
     -ms-transition: all 0.5s;
     -o-transition: all 0.5s;
 }
-.service-box.style3 .icon-bx-wraper:hover img {
+.service-box.style3 .icon-bx-wraper:hover img.icn-srv {
     filter: brightness(0) invert(1);
 }
 .service-box.style3 .dlab-tilte{
